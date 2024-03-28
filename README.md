@@ -1,4 +1,4 @@
-甜心选择2(Honey Select 2)安卓版    
+# 甜心选择2(Honey Select 2)安卓版    
 ![image](https://github.com/tre6t45654/hs2_andriod/assets/105280822/02d39898-5c4a-4134-8f11-23c69936a47b)
 ![image](https://github.com/tre6t45654/hs2_andriod/assets/105280822/27da87d8-6634-4444-9179-c1e0b2062163)
 
